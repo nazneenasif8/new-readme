@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Nazneen <br><br>- 🔭 Working as intern @TechVaraha<br>- 📚 Inquisitive in learning new technologies.<br>- ⚡ Solve Errors? Yes! -But, crack head first!</p>
+<p align="left">I'm Nazneen  <br><br>- 🔭 Working as intern @TechVaraha<br>- 📚 Inquisitive in learning new technologies.<br>- ⚡ Solve Errors? Yes! -But, crack head first!</p>
 
 ###
 
